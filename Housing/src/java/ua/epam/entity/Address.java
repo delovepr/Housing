@@ -2,7 +2,7 @@ package ua.epam.entity;
 
 /**
  *
- * @author Ivanov Alexander
+ * @author sobstvenno Sam Ivanov Alexander
  */
 public class Address {
 
